@@ -46,19 +46,10 @@ public class PortSimulation {
 
         SimulationReport simulationReport = simulatePortProcess(result[0], result[1], result[2], 0, 0, 0, timetable);
 
-        /*simulationReport.calculateReport();
-        System.out.println(simulationReport.toString());
-
-        System.out.println("Penalties first : " + containerShipsPenalty + ' ' + looseShipsPenalty + ' '
-                + liquidShipsPenalty + '\n' + "number of cranes: " + result[0] + ' ' + result[1] + ' ' + result[2]);*/
-
         while (((containerShipsPenalty / 30000) > (result[0] - 1) || (looseShipsPenalty / 30000) > (result[1] - 1)
                 || (liquidShipsPenalty / 30000) > (result[2] - 1))) {
 
             timetable = cloneTimetable(finalTimetable);
-
-            /*System.out.println("Penalties middle : " + containerShipsPenalty + ' ' + looseShipsPenalty + ' '
-                    + liquidShipsPenalty + '\n' + "number of cranes: " + result[0] + ' ' + result[1] + ' ' + result[2]);*/
 
             if ((containerShipsPenalty / 30000) > (result[0] - 1))
                 result[0]++;
@@ -427,16 +418,6 @@ public class PortSimulation {
         }
 
         public int getDelay() {
-            /*
-            if (uploadStartDay.get() == -10 || uploadStopDay.get() == -10) {
-                int stayingMinutes = (37 - ship.getArrivalDay() + 1) * 1440 + 1439 + (1440 - ship.getArrivalTime());
-                int penaltyMinutes = stayingMinutes - ship.getTimeOfStaying();
-                return penaltyMinutes;
-            }
-
-            int stayingMinutes = (uploadStopDay.get() - ship.getArrivalDay() + 1) * 1440
-                    + (1440 - ship.getArrivalTime()) + uploadStopTime.get();
-            int penaltyMinutes = stayingMinutes - ship.getArrivalTime();*/
             computeShipInfo();
             int penaltyMinutes = shipInfo.waitingDays * 1440 + shipInfo.waitingHours * 60 + shipInfo.waitingMinutes;
             return penaltyMinutes;

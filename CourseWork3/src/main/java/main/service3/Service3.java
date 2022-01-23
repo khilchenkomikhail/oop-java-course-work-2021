@@ -20,18 +20,6 @@ public class Service3 {
     private RestTemplate restTemplate = new RestTemplate();
     private String URL = "http://localhost:8091/service2/";
 
-    /*
-    @GetMapping("/simulate/{timetableFilename}/{reportFilename}")
-    public ResponseEntity<Boolean> simulate(@PathVariable String timetableFilename, @PathVariable String reportFilename) {
-        ResponseEntity<String> responseEntity = restTemplate.getForEntity(URL + "timetable/" + timetableFilename, String.class);
-        SimulationReport simulationReport = PortSimulation.computeOptimum(responseEntity.getBody());
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        restTemplate.postForEntity(URL + "report/" + reportFilename, gson.toJson(simulationReport), String.class);
-        return new ResponseEntity<>(true, HttpStatus.OK);
-    }
-
-     */
-
     @GetMapping(value = {"/simulate/{timetableFilename}", "/simulate/{timetableFilename}/{reportFileExtension}"})
     public ResponseEntity<String> simulate(@PathVariable String timetableFilename, @PathVariable Optional<String> reportFileExtension) {
         ResponseEntity<String> responseEntity;
