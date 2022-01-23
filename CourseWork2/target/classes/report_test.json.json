@@ -1,0 +1,437 @@
+{
+  "listOfShips": [
+    {
+      "shipInfo": {
+        "name": "TZHUsJQfe",
+        "arrivalDay": -3,
+        "arrivalHours": 20,
+        "arrivalMinutes": 43,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": -3,
+        "beginOfUploadingHours": 20,
+        "beginOfUploadingMinutes": 43,
+        "uploadingDays": 1,
+        "uploadingHours": 19,
+        "uploadingMinutes": 43
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "ZxBenurZq",
+        "arrivalDay": 5,
+        "arrivalHours": 1,
+        "arrivalMinutes": 18,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 5,
+        "beginOfUploadingHours": 1,
+        "beginOfUploadingMinutes": 18,
+        "uploadingDays": 1,
+        "uploadingHours": 11,
+        "uploadingMinutes": 15
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "RRRRRRRRRRRRRRR",
+        "arrivalDay": 5,
+        "arrivalHours": 2,
+        "arrivalMinutes": 54,
+        "waitingDays": 1,
+        "waitingHours": 9,
+        "waitingMinutes": 39,
+        "beginOfUploadingDays": 6,
+        "beginOfUploadingHours": 12,
+        "beginOfUploadingMinutes": 33,
+        "uploadingDays": 0,
+        "uploadingHours": 8,
+        "uploadingMinutes": 20
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "MgOLklAy",
+        "arrivalDay": 6,
+        "arrivalHours": 18,
+        "arrivalMinutes": 48,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 6,
+        "beginOfUploadingHours": 18,
+        "beginOfUploadingMinutes": 48,
+        "uploadingDays": 1,
+        "uploadingHours": 16,
+        "uploadingMinutes": 25
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "WldlQgyBBIE",
+        "arrivalDay": 6,
+        "arrivalHours": 1,
+        "arrivalMinutes": 29,
+        "waitingDays": 0,
+        "waitingHours": 19,
+        "waitingMinutes": 24,
+        "beginOfUploadingDays": 6,
+        "beginOfUploadingHours": 20,
+        "beginOfUploadingMinutes": 53,
+        "uploadingDays": 1,
+        "uploadingHours": 22,
+        "uploadingMinutes": 9
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "RXKqrIy",
+        "arrivalDay": 7,
+        "arrivalHours": 15,
+        "arrivalMinutes": 2,
+        "waitingDays": 1,
+        "waitingHours": 4,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 8,
+        "beginOfUploadingHours": 19,
+        "beginOfUploadingMinutes": 2,
+        "uploadingDays": 2,
+        "uploadingHours": 11,
+        "uploadingMinutes": 1
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "FyDKv",
+        "arrivalDay": 8,
+        "arrivalHours": 11,
+        "arrivalMinutes": 35,
+        "waitingDays": 2,
+        "waitingHours": 18,
+        "waitingMinutes": 28,
+        "beginOfUploadingDays": 11,
+        "beginOfUploadingHours": 6,
+        "beginOfUploadingMinutes": 3,
+        "uploadingDays": 2,
+        "uploadingHours": 6,
+        "uploadingMinutes": 43
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "XmJtlzXdYgZ",
+        "arrivalDay": 13,
+        "arrivalHours": 7,
+        "arrivalMinutes": 25,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 13,
+        "beginOfUploadingHours": 7,
+        "beginOfUploadingMinutes": 25,
+        "uploadingDays": 1,
+        "uploadingHours": 11,
+        "uploadingMinutes": 49
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "NaXEUXfFXlP",
+        "arrivalDay": 13,
+        "arrivalHours": 2,
+        "arrivalMinutes": 54,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 13,
+        "beginOfUploadingHours": 2,
+        "beginOfUploadingMinutes": 54,
+        "uploadingDays": 2,
+        "uploadingHours": 5,
+        "uploadingMinutes": 27
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "mgJLBtPhp",
+        "arrivalDay": 12,
+        "arrivalHours": 13,
+        "arrivalMinutes": 27,
+        "waitingDays": 0,
+        "waitingHours": 23,
+        "waitingMinutes": 19,
+        "beginOfUploadingDays": 13,
+        "beginOfUploadingHours": 12,
+        "beginOfUploadingMinutes": 46,
+        "uploadingDays": 1,
+        "uploadingHours": 23,
+        "uploadingMinutes": 46
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "lrXRCrYm",
+        "arrivalDay": 15,
+        "arrivalHours": 1,
+        "arrivalMinutes": 39,
+        "waitingDays": 0,
+        "waitingHours": 6,
+        "waitingMinutes": 42,
+        "beginOfUploadingDays": 15,
+        "beginOfUploadingHours": 8,
+        "beginOfUploadingMinutes": 21,
+        "uploadingDays": 1,
+        "uploadingHours": 19,
+        "uploadingMinutes": 48
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "JksMzVxBzSVh",
+        "arrivalDay": 16,
+        "arrivalHours": 17,
+        "arrivalMinutes": 44,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 16,
+        "beginOfUploadingHours": 17,
+        "beginOfUploadingMinutes": 44,
+        "uploadingDays": 2,
+        "uploadingHours": 18,
+        "uploadingMinutes": 13
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "JvMnuqZLt",
+        "arrivalDay": 18,
+        "arrivalHours": 13,
+        "arrivalMinutes": 24,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 18,
+        "beginOfUploadingHours": 13,
+        "beginOfUploadingMinutes": 24,
+        "uploadingDays": 1,
+        "uploadingHours": 18,
+        "uploadingMinutes": 36
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "QnNwtngiel",
+        "arrivalDay": 18,
+        "arrivalHours": 7,
+        "arrivalMinutes": 1,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 18,
+        "beginOfUploadingHours": 7,
+        "beginOfUploadingMinutes": 1,
+        "uploadingDays": 2,
+        "uploadingHours": 14,
+        "uploadingMinutes": 23
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "nyfqt",
+        "arrivalDay": 20,
+        "arrivalHours": 0,
+        "arrivalMinutes": 38,
+        "waitingDays": 0,
+        "waitingHours": 7,
+        "waitingMinutes": 22,
+        "beginOfUploadingDays": 20,
+        "beginOfUploadingHours": 8,
+        "beginOfUploadingMinutes": 0,
+        "uploadingDays": 2,
+        "uploadingHours": 14,
+        "uploadingMinutes": 30
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "MNthkzuWh",
+        "arrivalDay": 22,
+        "arrivalHours": 13,
+        "arrivalMinutes": 16,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 22,
+        "beginOfUploadingHours": 13,
+        "beginOfUploadingMinutes": 16,
+        "uploadingDays": 1,
+        "uploadingHours": 23,
+        "uploadingMinutes": 32
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "JucJBdmppx",
+        "arrivalDay": 22,
+        "arrivalHours": 10,
+        "arrivalMinutes": 22,
+        "waitingDays": 0,
+        "waitingHours": 12,
+        "waitingMinutes": 8,
+        "beginOfUploadingDays": 22,
+        "beginOfUploadingHours": 22,
+        "beginOfUploadingMinutes": 30,
+        "uploadingDays": 1,
+        "uploadingHours": 23,
+        "uploadingMinutes": 36
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "odbweRDArfb",
+        "arrivalDay": 24,
+        "arrivalHours": 15,
+        "arrivalMinutes": 41,
+        "waitingDays": 0,
+        "waitingHours": 6,
+        "waitingMinutes": 25,
+        "beginOfUploadingDays": 24,
+        "beginOfUploadingHours": 22,
+        "beginOfUploadingMinutes": 6,
+        "uploadingDays": 1,
+        "uploadingHours": 10,
+        "uploadingMinutes": 47
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "GvvgrOft",
+        "arrivalDay": 24,
+        "arrivalHours": 2,
+        "arrivalMinutes": 22,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 24,
+        "beginOfUploadingHours": 2,
+        "beginOfUploadingMinutes": 22,
+        "uploadingDays": 2,
+        "uploadingHours": 7,
+        "uploadingMinutes": 5
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "KTEfFb",
+        "arrivalDay": 25,
+        "arrivalHours": 12,
+        "arrivalMinutes": 11,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 25,
+        "beginOfUploadingHours": 12,
+        "beginOfUploadingMinutes": 11,
+        "uploadingDays": 2,
+        "uploadingHours": 4,
+        "uploadingMinutes": 54
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "gkUkTR",
+        "arrivalDay": 25,
+        "arrivalHours": 13,
+        "arrivalMinutes": 10,
+        "waitingDays": 0,
+        "waitingHours": 19,
+        "waitingMinutes": 43,
+        "beginOfUploadingDays": 26,
+        "beginOfUploadingHours": 8,
+        "beginOfUploadingMinutes": 53,
+        "uploadingDays": 1,
+        "uploadingHours": 12,
+        "uploadingMinutes": 42
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "nqlgqHT",
+        "arrivalDay": 24,
+        "arrivalHours": 14,
+        "arrivalMinutes": 42,
+        "waitingDays": 1,
+        "waitingHours": 18,
+        "waitingMinutes": 45,
+        "beginOfUploadingDays": 26,
+        "beginOfUploadingHours": 9,
+        "beginOfUploadingMinutes": 27,
+        "uploadingDays": 2,
+        "uploadingHours": 15,
+        "uploadingMinutes": 20
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "MwZthmiw",
+        "arrivalDay": 26,
+        "arrivalHours": 17,
+        "arrivalMinutes": 1,
+        "waitingDays": 1,
+        "waitingHours": 4,
+        "waitingMinutes": 34,
+        "beginOfUploadingDays": 27,
+        "beginOfUploadingHours": 21,
+        "beginOfUploadingMinutes": 35,
+        "uploadingDays": 2,
+        "uploadingHours": 14,
+        "uploadingMinutes": 15
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "pDDfmO",
+        "arrivalDay": 30,
+        "arrivalHours": 8,
+        "arrivalMinutes": 14,
+        "waitingDays": 0,
+        "waitingHours": 3,
+        "waitingMinutes": 36,
+        "beginOfUploadingDays": 30,
+        "beginOfUploadingHours": 11,
+        "beginOfUploadingMinutes": 50,
+        "uploadingDays": 1,
+        "uploadingHours": 21,
+        "uploadingMinutes": 17
+      }
+    },
+    {
+      "shipInfo": {
+        "name": "babJExF",
+        "arrivalDay": 37,
+        "arrivalHours": 0,
+        "arrivalMinutes": 59,
+        "waitingDays": 0,
+        "waitingHours": 0,
+        "waitingMinutes": 0,
+        "beginOfUploadingDays": 37,
+        "beginOfUploadingHours": 0,
+        "beginOfUploadingMinutes": 59,
+        "uploadingDays": -2147483648,
+        "uploadingHours": -2147483648,
+        "uploadingMinutes": -2147483648
+      }
+    }
+  ],
+  "amountOfUnloadShips": 24,
+  "averageQueueLength": 0.0,
+  "maxDelay": 3988,
+  "averageDelay": 715.4,
+  "totalFine": 30400,
+  "amountContainerCranes": 1,
+  "amountLooseCranes": 1,
+  "amountLiquidCranes": 1
+}

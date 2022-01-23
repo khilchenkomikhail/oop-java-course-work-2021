@@ -1,0 +1,224 @@
+[
+  [
+    {
+      "name": "dIseXLhnf",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 3788,
+      "arrivalDay": 5,
+      "arrivalTime": 1150,
+      "timeOfStaying": 3788
+    },
+    {
+      "name": "lgYGs",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 3001,
+      "arrivalDay": 8,
+      "arrivalTime": 615,
+      "timeOfStaying": 3001
+    },
+    {
+      "name": "gKOcGZm",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 2964,
+      "arrivalDay": 17,
+      "arrivalTime": 328,
+      "timeOfStaying": 2964
+    },
+    {
+      "name": "GuSKgVPIh",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 3213,
+      "arrivalDay": 30,
+      "arrivalTime": 1094,
+      "timeOfStaying": 3213
+    },
+    {
+      "name": "AgaOmlGS",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 2775,
+      "arrivalDay": 21,
+      "arrivalTime": 653,
+      "timeOfStaying": 2775
+    },
+    {
+      "name": "zAFSYrPd",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 2077,
+      "arrivalDay": 13,
+      "arrivalTime": 1075,
+      "timeOfStaying": 2077
+    },
+    {
+      "name": "wVgKSHuR",
+      "cargoType": "CONTAINER",
+      "amountOfCargo": 3009,
+      "arrivalDay": 8,
+      "arrivalTime": 10,
+      "timeOfStaying": 3009
+    }
+  ],
+  [
+    {
+      "name": "HbKSYBs",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 3478,
+      "arrivalDay": 10,
+      "arrivalTime": 94,
+      "timeOfStaying": 3478
+    },
+    {
+      "name": "oYyptB",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 2762,
+      "arrivalDay": 30,
+      "arrivalTime": 86,
+      "timeOfStaying": 2762
+    },
+    {
+      "name": "NmJRIsCF",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 3894,
+      "arrivalDay": 5,
+      "arrivalTime": 644,
+      "timeOfStaying": 3894
+    },
+    {
+      "name": "FcZxoqqaq",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 2659,
+      "arrivalDay": 17,
+      "arrivalTime": 46,
+      "timeOfStaying": 2659
+    },
+    {
+      "name": "qlRBFpOtL",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 3031,
+      "arrivalDay": 1,
+      "arrivalTime": 290,
+      "timeOfStaying": 3031
+    },
+    {
+      "name": "ycLDNYubiZZ",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 3387,
+      "arrivalDay": 26,
+      "arrivalTime": 179,
+      "timeOfStaying": 3387
+    },
+    {
+      "name": "GpAFSlTg",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 2854,
+      "arrivalDay": 17,
+      "arrivalTime": 1133,
+      "timeOfStaying": 2854
+    },
+    {
+      "name": "BHtiEMi",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 2702,
+      "arrivalDay": 20,
+      "arrivalTime": 859,
+      "timeOfStaying": 2702
+    },
+    {
+      "name": "XfYDYih",
+      "cargoType": "LOOSE",
+      "amountOfCargo": 3226,
+      "arrivalDay": 13,
+      "arrivalTime": 1116,
+      "timeOfStaying": 3226
+    }
+  ],
+  [
+    {
+      "name": "atcFBxQx",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3965,
+      "arrivalDay": 30,
+      "arrivalTime": 358,
+      "timeOfStaying": 3965
+    },
+    {
+      "name": "gRkfZkN",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3729,
+      "arrivalDay": 28,
+      "arrivalTime": 645,
+      "timeOfStaying": 3729
+    },
+    {
+      "name": "qtGzAqp",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3509,
+      "arrivalDay": 4,
+      "arrivalTime": 518,
+      "timeOfStaying": 3509
+    },
+    {
+      "name": "LVUuGht",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3748,
+      "arrivalDay": 4,
+      "arrivalTime": 907,
+      "timeOfStaying": 3748
+    },
+    {
+      "name": "GvCwNgD",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 2321,
+      "arrivalDay": 7,
+      "arrivalTime": 1091,
+      "timeOfStaying": 2321
+    },
+    {
+      "name": "KakfKK",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3023,
+      "arrivalDay": 30,
+      "arrivalTime": 1009,
+      "timeOfStaying": 3023
+    },
+    {
+      "name": "irIYVdH",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 2047,
+      "arrivalDay": 26,
+      "arrivalTime": 677,
+      "timeOfStaying": 2047
+    },
+    {
+      "name": "gxeKtnIY",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3361,
+      "arrivalDay": 17,
+      "arrivalTime": 681,
+      "timeOfStaying": 3361
+    },
+    {
+      "name": "dbgvkGL",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 3316,
+      "arrivalDay": 1,
+      "arrivalTime": 172,
+      "timeOfStaying": 3316
+    },
+    {
+      "name": "PFgnpkrY",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 2030,
+      "arrivalDay": 3,
+      "arrivalTime": 536,
+      "timeOfStaying": 2030
+    },
+    {
+      "name": "IFoqINiZiU",
+      "cargoType": "LIQUID",
+      "amountOfCargo": 2267,
+      "arrivalDay": 2,
+      "arrivalTime": 973,
+      "timeOfStaying": 2267
+    }
+  ]
+]
