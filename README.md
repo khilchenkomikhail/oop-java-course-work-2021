@@ -1,5 +1,6 @@
 # oop-java-course-work-2021
-Course work consists of 3 application, modelling work of a sea port
+Course work consists of 3 application, modelling work of a sea port.
+
 First application generates shedules of arriving ships.
 
 Second application gets a shedule from first app, gives it to the third, gets results of modelling from 3rd, saves all files and displays results for user.
